@@ -2,6 +2,7 @@
 True Object-Oriented Telegram Framework with same design as in https://www.takes.org/
 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/19163ae3ff1c4bfca6a3cb387b03279d)](https://app.codacy.com/app/g4s8/teletakes?utm_source=github.com&utm_medium=referral&utm_content=g4s8/teletakes&utm_campaign=Badge_Grade_Dashboard)
 [![EO principles respected here](http://www.elegantobjects.org/badge.svg)](http://www.elegantobjects.org)
 [![DevOps By Rultor.com](http://www.rultor.com/b/zerocracy/farm)](http://www.rultor.com/p/zerocracy/farm)
 
